@@ -1,4 +1,4 @@
-# Esh.WoW335ServerBuild
+# Esh.WoWServerBuild
 
 Готовый сервер WoW 
 Включает в себя:
